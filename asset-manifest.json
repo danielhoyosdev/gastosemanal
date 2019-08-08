@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gastosemanal/static/css/main.c012dbc9.chunk.css",
+    "main.js": "/gastosemanal/static/js/main.334d99fb.chunk.js",
+    "main.js.map": "/gastosemanal/static/js/main.334d99fb.chunk.js.map",
+    "runtime~main.js": "/gastosemanal/static/js/runtime~main.948489c5.js",
+    "runtime~main.js.map": "/gastosemanal/static/js/runtime~main.948489c5.js.map",
+    "static/js/2.dc155f86.chunk.js": "/gastosemanal/static/js/2.dc155f86.chunk.js",
+    "static/js/2.dc155f86.chunk.js.map": "/gastosemanal/static/js/2.dc155f86.chunk.js.map",
+    "index.html": "/gastosemanal/index.html",
+    "precache-manifest.a7b90344fef050b68000039d3efe1f18.js": "/gastosemanal/precache-manifest.a7b90344fef050b68000039d3efe1f18.js",
+    "service-worker.js": "/gastosemanal/service-worker.js",
+    "static/css/main.c012dbc9.chunk.css.map": "/gastosemanal/static/css/main.c012dbc9.chunk.css.map"
+  }
+}
