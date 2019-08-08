@@ -39,7 +39,7 @@ class Formulario extends Component {
     }
 }
 
-Formulario.PropTypes = {
+Formulario.propTypes = {
     agregarGasto: PropTypes.func.isRequired
 }
 
